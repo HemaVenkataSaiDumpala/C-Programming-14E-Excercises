@@ -1,7 +1,7 @@
 # C-Programming- Let Us C - 14E- Practice Work
 This repository is to keep track of my progress in completing Let Us C - 14 Edition starting from scratch.
 Basically, This repository covers the following chapters from the book: 
-
+## Note : Please check Code folder for solutions of each chapter-"Attempt the following sections" and Exercises folder contains answers for other section of exercises, If you like/dislike my work. Please let me know, I am open for suggestions/corrections.
 ## 1. Getting Started 
 1 What is C? 
 2 Getting Started with C 
